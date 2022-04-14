@@ -36,7 +36,7 @@ active
 						<tbody>
 							@if (count($image) == 0)
 					          <tr>
-					            <td colspan="5" class="h5 text-center text-muted">Ma'lumot kiritilmagan</td>
+					            <td colspan="5" class="h5 text-center text-muted">Empty</td>
 					          </tr>
 					        @endif
 					        @foreach($image as $p)
