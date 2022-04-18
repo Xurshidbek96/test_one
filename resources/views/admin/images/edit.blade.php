@@ -1,6 +1,6 @@
 @extends('admin.layouts.layout')
 
-@section('images')
+@section('banners')
     active
 @endsection
 
